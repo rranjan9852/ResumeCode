@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rahul-Ranjan</title>
+    <link rel="stylesheet"  href="CSS/style.css">
+</head>
+<body>
+    <div class="outer" >
+        <br>
+        <br>
+        <h1>RESUME</h1>
+        <br>
+        <p>
+           <b>RAHUL RANJAN</b><br>
+            Gobarsahi Road<br>
+             Dumri, Muzaffarpur<br>
+            Mobile No:6200208328,7033367418<br>
+            Email Id:signin.rr@gmail.com<br>
+    
+        </p>
+        <hr>
+        <hr>
+        <br>
+        <div class="border">
+            <i>CARRIER OBJECTIVE:-</i>
+        </div>
+        <br>
+        <ul>
+            <li>Creative thinker and content expert with in-depth knowledge of development tools and
+                languages. Looking for a position where I can utilize my knowlwdge to enhance opportunities.
+            </li>
+        </ul>
+            <br>
+            <div class="border">
+                <i>EDUCATIONAL QUALIFICATION:-</i>
+            </div>
+            <br>
+            <ul>
+                <li>10th passed from GOVT. HIGH SCHOOL KESARIYA, BIHAR</li>
+                <li>12th (PCM) from A.N COLLEGE PATNA, BIHAR.</li>
+                <li>Persuding B.Tech in INFORMATION TECHNOLOGY from GURU NANAK DEV
+                    ENGINEERING COLLEGE, LUDHIANA</li>
+                
+            </ul>
+            <br>
+            <div class="border">
+                <i>WORK EXPERIENCE:-</i>
+            </div>
+            <br>
+            <ul>
+                <LI>Fresher</LI>
+            
+            </ul>
+            <br>
+            <div class="border">
+                <i>SKILLS:-</i>
+            </div>
+            <BR>
+                <ul>
+                    <li>Java Developer</li>
+                    <li>Front-End Developer</li>
+                    <li>Knowledge of Operating System</li>
+                    <LI>Data Base Management System</LI>
+                    <li> Knowledge of Advance Ms Excel</li>
+                    
+                </ul>
+                <br>
+                
+                <div class="border">
+                    <i>PERSONAL INFORMATION:-</i>
+                </div>
+                <BR>
+                    <ul>
+                        <li>Father's Name   :   Harendra Kumar Sharma</li>
+                        <li>D-O-B           :   25-05-2000</li>
+                        <LI>Gender          :   Male</LI>
+                        <li>Marital Status  :   Unmarried</li>
+                        <li>Nationality     :   Indian</li>
+                        <li>Language        :   English, Hindi,Punjabi,Bhojpuri</li>
+                    </ul>
+                    <br>
+                    <br>
+                    <div class="border">
+                        <i> DECLARATION:-</i>
+                    </div>
+                    <br>
+                    <p>
+                        I hereby declare that the above furnished details are true and correct to the best of my knowledge.
+                
+                    </p>
+                    <br>
+                    <p style="font-size: 20px;">
+                        DATE:........<br>
+                        <p style="word-spacing: 400px;">PLACE:........ RAHUL_RANJAN</p>
+                                                                             
+                    </p>
+                    
+                       <BR>
+                        <BR>
+                            <BR>
+                     
+
+    </div>
+    
+</body>
+</html>
